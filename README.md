@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emin</h1>
-<h3 align="center">A passionate Javascript learner from Turkey</h3>
+<h3 align="center">A passionate Java learner and QA Analyst from Turkey</h3>
 
-- 🌱 I’m currently learning **Vanilla Javascript**
-
-- 📝 I regularly write articles on [https://medium.com/meminzunluoglu](https://medium.com/meminzunluoglu)
+- 🌱 I’m currently learning **Core Java**
 
 - 📫 How to reach me **meminzunluoglu@gmail.com**
 
